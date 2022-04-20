@@ -1,6 +1,5 @@
-## Michael Raffelsberger
-### Data Science & Artificial Intelligence Masters Student
 ![Data Science & Artificial Intelligence Masters Student](https://github.com/RAM98AUT/RAM98AUT/blob/main/banner.PNG)
+## Michael Raffelsberger
 Hi there, I'm Michael and I'm currently in the last semester of a **Data Science** master program at the University of Vienna and additionally study **Artificial Intelligence** at JKU Linz. At the moment, I primarily use Github for university projects and assignments.
 
 ### Skills
