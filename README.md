@@ -2,8 +2,8 @@
 #### Data Science & Artificial Intelligence Masters Student
 Hi there, I'm Michael and I'm currently in the last semester of a **Data Science** master program at the University of Vienna and additionally study **Artificial Intelligence** at JKU Linz. At the moment, I primarily use Github for university projects and assignments.
 
-Skills: **Python** / R / LaTeX / SQL / Git
-Python: NumPy / **scikit-learn** / **PyTorch** / pandas/ Matplotlib / SciPy / NLTK / OpenCV / Flask / scikit-image / LightGBM / Stable Baselines
+Skills: **Python** / R / LaTeX / SQL / Git<br/>
+Python: NumPy / **scikit-learn** / **PyTorch** / pandas/ Matplotlib / SciPy / NLTK / OpenCV / Flask / scikit-image / LightGBM / Stable Baselines<br/>
 Minor Experience: Ubuntu / JavaScript / MongoDB / HTML / CSS / Docker
 
 - 🔭 I’m currently working on my master thesis on Multi-modal Variational Autoencoders with Structured Missingness 
