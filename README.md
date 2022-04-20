@@ -8,7 +8,7 @@ Hi there, I'm Michael and I'm currently in the last semester of a **Data Science
 `Minor Experience:` Ubuntu / JavaScript / MongoDB / HTML / CSS / Docker
 
 - 🔭 I’m currently working on my master thesis on **Multi-modal Variational Autoencoders with Structured Missingness**. 
-- 👯 I’m looking to collaborate on **Kaggle competitions**. (after finishing my master thesis :))  
+- 👯 I’m looking to collaborate on **Kaggle competitions**. (after finishing my master thesis 😄)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAM98AUT)](https://github.com/anuraghazra/github-readme-stats)
 
