@@ -1,13 +1,14 @@
-### Michael Raffelsberger
-#### Data Science & Artificial Intelligence Masters Student
+## Michael Raffelsberger
+### Data Science & Artificial Intelligence Masters Student
 Hi there, I'm Michael and I'm currently in the last semester of a **Data Science** master program at the University of Vienna and additionally study **Artificial Intelligence** at JKU Linz. At the moment, I primarily use Github for university projects and assignments.
 
-Skills: **Python** / R / LaTeX / SQL / Git<br/>
-Python: NumPy / **scikit-learn** / **PyTorch** / pandas/ Matplotlib / SciPy / NLTK / OpenCV / Flask / scikit-image / LightGBM / Stable Baselines<br/>
-Minor Experience: Ubuntu / JavaScript / MongoDB / HTML / CSS / Docker
+### Skills
+`Major Experience:` **Python** / R / LaTeX / SQL / Git<br/>
+`Python:` NumPy / **scikit-learn** / **PyTorch** / pandas/ Matplotlib / SciPy / NLTK / OpenCV / Flask / scikit-image / LightGBM / Stable Baselines<br/>
+`Minor Experience:` Ubuntu / JavaScript / MongoDB / HTML / CSS / Docker
 
-- 🔭 I’m currently working on my master thesis on Multi-modal Variational Autoencoders with Structured Missingness 
-- 👯 I’m looking to collaborate on Kaggle competitions (after finishing my master thesis :))  
+- 🔭 I’m currently working on my master thesis on **Multi-modal Variational Autoencoders with Structured Missingness**. 
+- 👯 I’m looking to collaborate on **Kaggle competitions**. (after finishing my master thesis :))  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RAM98AUT)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/michael-raffelsberger/)
