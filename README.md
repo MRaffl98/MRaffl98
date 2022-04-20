@@ -12,8 +12,7 @@ Hi there, I'm Michael and I'm currently in the last semester of a **Data Science
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAM98AUT)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RAM98AUT)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/michael-raffelsberger/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/raffelsbem98)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/michael-raffelsberger/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/raffelsbem98)
 
 <!--
 **RAM98AUT/RAM98AUT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
