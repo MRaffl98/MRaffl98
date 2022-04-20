@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Michael
+### Michael Raffelsberger
 #### Data Science & Artificial Intelligence Masters Student
-I am currently in the last semester of a Data Science master program at the University of Vienna and additionally study Artificial Intelligence at JKU Linz. At the moment, I primarily use Github for university projects and assignments.
+Hi there, I'm Michael and I'm currently in the last semester of a **Data Science** master program at the University of Vienna and additionally study **Artificial Intelligence** at JKU Linz. At the moment, I primarily use Github for university projects and assignments.
 
 Skills: Python / R / LaTeX / SQL / Git
 
@@ -8,7 +8,8 @@ Skills: Python / R / LaTeX / SQL / Git
 - 👯 I’m looking to collaborate on Kaggle competitions (after finishing my master thesis :))  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RAM98AUT)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/michael-raffelsberger/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RAM98AUT)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/michael-raffelsberger/)
+src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/raffelsbem98)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAM98AUT)](https://github.com/anuraghazra/github-readme-stats)
 
