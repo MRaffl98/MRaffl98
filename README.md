@@ -1,16 +1,19 @@
-![Data Science & Artificial Intelligence Masters Student](https://github.com/RAM98AUT/RAM98AUT/blob/main/banner.PNG)
+![Data Scientist](https://github.com/RAM98AUT/RAM98AUT/blob/main/banner.PNG)
 ## Michael Raffelsberger
-Hi there, I'm Michael and I'm currently in the last semester of a **Data Science** master program at the University of Vienna and additionally study **Artificial Intelligence** at JKU Linz. At the moment, I primarily use Github for university projects and assignments.
+Hi there, I'm Michael and I'm a data scientist at [craftworks GmbH](https://www.craftworks.ai/) with an interest in Python programming and various data science topics, including:
+
+- Machine learning for tabular and time-series data
+- Computer vision
+- Optimization (especially MILP)
+
+👯 I am looking to collaborate on **Kaggle competitions**. In case you are interested, feel free to reach out to me. 
 
 ### Skills
-`Major Experience:` **Python** / R / LaTeX / SQL / Git<br/>
-`Python:` NumPy / **scikit-learn** / **PyTorch** / pandas/ Matplotlib / SciPy / NLTK / OpenCV / Flask / scikit-image / LightGBM / Stable Baselines<br/>
+`Major Experience:` **Python** / Git <br/>
+`Python:` NumPy / scikit-learn / PyTorch / Pandas / Matplotlib / Seaborn / SciPy / NLTK / OpenCV / Flask / LightGBM / Plotly, Gradio, Pydantic / Detectron2 / OR-Tools, Darts, Anomalib / MLflow / Kedro / Pytest ... <br/>
 `Minor Experience:` Ubuntu / JavaScript / MongoDB / HTML / CSS / Docker
 
-- 🔭 I’m currently working on my master thesis on **Multi-modal Variational Autoencoders with Structured Missingness**. 
-- 👯 I’m looking to collaborate on **Kaggle competitions**. (after finishing my master thesis 😄)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAM98AUT)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRaffl98)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/michael-raffelsberger/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/raffelsbem98)
 
