@@ -10,8 +10,9 @@ Hi there, I'm Michael and I'm a data scientist at [craftworks GmbH](https://www.
 
 ### Skills
 `Major Experience:` **Python** / Git <br/>
-`Python:` NumPy / scikit-learn / PyTorch / Pandas / Matplotlib / Seaborn / SciPy / NLTK / OpenCV / Flask / LightGBM / Plotly, Gradio, Pydantic / Detectron2 / OR-Tools, Darts, Anomalib / MLflow / Kedro / Pytest ... <br/>
-`Minor Experience:` Ubuntu / JavaScript / MongoDB / HTML / CSS / Docker
+`Python:` NumPy / scikit-learn / PyTorch / Pandas / Matplotlib / Seaborn / SciPy / NLTK / OpenCV / Flask / LightGBM / Plotly / Gradio / Pydantic / Detectron2 / OR-Tools, Darts, Anomalib / MLflow / Kedro / Pytest / ... <br/>
+`Further Experience:` Ubuntu / Docker / R / SQL / Slurm
+`Organizational:` Jira, Confluence, Google Workspace 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRaffl98)](https://github.com/anuraghazra/github-readme-stats)
 
