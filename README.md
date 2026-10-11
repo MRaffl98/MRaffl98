@@ -7,8 +7,6 @@ Hi there, I'm Michael and I'm a data scientist at [craftworks GmbH](https://www.
 - Optimization (especially MILP)
 - LLMs and Agents
 
-👯 I am looking to collaborate on **Kaggle competitions**. In case you are interested, feel free to reach out to me. 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRaffl98)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/michael-raffelsberger/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/raffelsbem98)
